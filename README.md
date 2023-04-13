@@ -1,0 +1,2 @@
+# Tickstar
+SocialiteProvider Tickstar
